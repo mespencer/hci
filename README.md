@@ -1,5 +1,6 @@
 # Myles Spencer
 ## Design Manifesto
+I came into this class thinking I already knew a lot about design, I quickly found that there was a lot I didn't know. One of my first preconceptions is that good design looks "good". I have since learn that good design often looks good, but doesn't necessarily have to, it is more about functionality and making it easy to intereact with the technology.
 
 
 ## Portfolio
